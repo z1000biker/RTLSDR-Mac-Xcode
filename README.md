@@ -135,4 +135,4 @@ That repository includes specific support for the R828D-based RTL-SDR Blog V4 an
 
 ## License
 
-No license has been selected for this example repository yet. Because the program links against GPL-2.0 `librtlsdr`, review the licensing implications before distributing binaries. If the intention is to publish this as an open-source example, GPL-2.0 is the simplest compatible choice.
+No license has been selected for this example repository yet. Because the program links against GPL-2.0 `librtlsdr`
